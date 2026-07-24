@@ -7,6 +7,8 @@
 
   /* --- embed safety: full-bleed + dark page bg regardless of Duda wrapper --- */
   html,body{background:#08090D !important;}
+  /* Duda wraps the page in white containers — make them transparent so the dark bg shows */
+  .dmInner,.dmContent,.allWrapper,.dmBody,#dm_content,.dmRespRow,.dmRespColsWrapper,.dmCustomHtml{background:transparent !important;}
   #nm-embed-root{width:100vw;position:relative;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw;overflow-x:hidden;}
 
   :root{
@@ -271,7 +273,7 @@
 <!-- HERO -->
 <section class="hero" id="top">
   <div class="wrap hero-inner">
-    <span class="status-pill"><span class="live-dot"></span> Currently building 5 things at once</span>
+    <span class="status-pill"><span class="live-dot"></span> Always building · Always learning</span>
     <h1>Building companies. <span class="g">Engineering intelligence.</span> Living with purpose.</h1>
     <p class="lead">I'm Nino Mihilli — entrepreneur, builder, and operator. Two decades founding and holding companies, now building AI and markets from the ground up. Faith-driven. Family-first. Relentless about execution.</p>
     <div class="hero-cta">
