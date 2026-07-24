@@ -4,6 +4,9 @@
 
   /* HIDE DUDA CHROME on home only */
   .dmHeader,.dmFooter,.dmRespRow.dmHeader,footer.dmFooter{display:none !important;}
+  /* Duda's floating-header CONTAINER bleeds a green/tinted bar over the top — kill it */
+  .dmHeaderContainer,.fHeader,#dmHeaderContainer,.dmHeaderContainer.fHeader,.dmHeaderBox,header.dmHeader,#dmHeader{
+    display:none !important;background:transparent !important;box-shadow:none !important;border:0 !important;height:0 !important;min-height:0 !important;}
 
   /* --- embed safety: full-bleed + dark page bg regardless of Duda wrapper --- */
   html,body{background:#08090D !important;}
@@ -562,6 +565,24 @@
 </div>
 
 <script>
+  /* Neutralize Duda's native row backgrounds (teal-green header wash).
+     Duda paints these via double-ID !important rules that CSS can't beat,
+     so force transparent inline (inline !important wins over any stylesheet). */
+  (function(){
+    function killChrome(){
+      document.querySelectorAll('.dmRespRow,.dmRespColsWrapper,.dmInner,.dmContent,.dmBody,.dmCustomHtml,.dmHeaderContainer').forEach(function(el){
+        var bg=getComputedStyle(el).backgroundColor;
+        if(bg && bg!=='rgba(0, 0, 0, 0)' && bg!=='transparent'){
+          el.style.setProperty('background','transparent','important');
+          el.style.setProperty('background-color','transparent','important');
+        }
+      });
+    }
+    killChrome();
+    [150,500,1200].forEach(function(t){setTimeout(killChrome,t);});
+    try{ new MutationObserver(killChrome).observe(document.body,{attributes:true,subtree:true,attributeFilter:['style','class']}); }catch(e){}
+  })();
+
   const hdr=document.getElementById('hdr');
   addEventListener('scroll',()=>hdr.classList.toggle('scrolled',scrollY>40));
 
