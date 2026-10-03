@@ -12,6 +12,8 @@
   html,body{background:#08090D !important;}
   /* Duda wraps the page in white containers — make them transparent so the dark bg shows */
   .dmInner,.dmContent,.allWrapper,.dmBody,#dm_content,.dmRespRow,.dmRespColsWrapper,.dmCustomHtml{background:transparent !important;}
+  #nm-embed-root h1,#nm-embed-root h2,#nm-embed-root h3,#nm-embed-root h4{color:var(--ink,#EDEEF2) !important;}
+  #nm-embed-root .glass::before,#nm-embed-root .glass::after{pointer-events:none !important;}
   #nm-embed-root{width:100vw;position:relative;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw;overflow-x:hidden;}
 
   :root{
@@ -114,7 +116,7 @@
   /* glass card base */
   .glass{background:linear-gradient(160deg,rgba(255,255,255,.035),rgba(255,255,255,.008));border:1px solid var(--line);border-radius:var(--radius);backdrop-filter:blur(8px);transition:.3s;position:relative;overflow:hidden}
   .glass:hover{border-color:var(--line-2);transform:translateY(-4px)}
-  .glass::before{content:"";position:absolute;inset:0;border-radius:var(--radius);padding:1px;background:linear-gradient(140deg,var(--accent),transparent 40%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:.3s}
+  .glass::before{content:"";position:absolute;inset:0;border-radius:var(--radius);padding:1px;background:linear-gradient(140deg,var(--accent),transparent 40%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:.3s;pointer-events:none}
   .glass:hover::before{opacity:.6}
 
   /* CURRENTLY BUILDING */
@@ -294,11 +296,15 @@
     <a class="tk" href="https://www.t47group.com" target="_blank" rel="noopener"><i class="b"></i> <b>T47 Group</b> — Holding Co.</a>
     <a class="tk" href="https://www.t47group.com" target="_blank" rel="noopener"><i class="b"></i> <b>T47 Alpha</b> — AI Market Intelligence</a>
     <a class="tk" href="https://beta.xsatori.com" target="_blank" rel="noopener"><i class="a"></i> <b>XSATORI</b> — Sports Markets · Beta</a>
+    <a class="tk" href="https://xsatorilabs.net" target="_blank" rel="noopener"><i class="g"></i> <b>Xsatori Labs</b> — Software Studio</a>
+    <a class="tk" href="https://hookahroyale.com" target="_blank" rel="noopener"><i class="g"></i> <b>Hookah Royale</b> — Live</a>
     <a class="tk" href="https://www.amazon.com/dp/B0GX3783RG" target="_blank" rel="noopener"><i class="g"></i> <b>The Variable</b> — Out now on Amazon</a>
     <a class="tk" href="https://www.flatstaffing.com" target="_blank" rel="noopener"><i class="g"></i> <b>FLAT Staffing</b> — Live</a>
     <a class="tk" href="https://www.t47group.com" target="_blank" rel="noopener"><i class="b"></i> <b>T47 Group</b> — Holding Co.</a>
     <a class="tk" href="https://www.t47group.com" target="_blank" rel="noopener"><i class="b"></i> <b>T47 Alpha</b> — AI Market Intelligence</a>
     <a class="tk" href="https://beta.xsatori.com" target="_blank" rel="noopener"><i class="a"></i> <b>XSATORI</b> — Sports Markets · Beta</a>
+    <a class="tk" href="https://xsatorilabs.net" target="_blank" rel="noopener"><i class="g"></i> <b>Xsatori Labs</b> — Software Studio</a>
+    <a class="tk" href="https://hookahroyale.com" target="_blank" rel="noopener"><i class="g"></i> <b>Hookah Royale</b> — Live</a>
     <a class="tk" href="https://www.amazon.com/dp/B0GX3783RG" target="_blank" rel="noopener"><i class="g"></i> <b>The Variable</b> — Out now on Amazon</a>
   </div>
 </div>
@@ -358,7 +364,7 @@
         <p>All of it runs on one standard — <strong>Luke 6:31</strong>. Treat people the way you'd want to be treated, and let the results follow. My faith and my family (my wife and three kids) aren't the backdrop to the work. They're the reason for it.</p>
         <div class="stat-row">
           <div class="stat"><b data-count="20" data-suffix="+">0</b><span>Years building</span></div>
-          <div class="stat"><b data-count="5">0</b><span>Ventures in motion</span></div>
+          <div class="stat"><b data-count="6">0</b><span>Ventures in motion</span></div>
           <div class="stat"><b data-count="3">0</b><span>Kids at home</span></div>
         </div>
       </div>
@@ -390,7 +396,7 @@
       <div class="glass comm-card reveal">
         <span class="comm-role">Advisory Board · Since 2023</span>
         <h3>The Salvation Army — Kroc Center Phoenix</h3>
-        <p>I serve on the advisory board of the Ray &amp; Joan Kroc Corps Community Center, supporting its mission across Phoenix — from youth programs to family services.</p>
+        <p>I serve as Vice-Chairperson of the advisory council of the Ray &amp; Joan Kroc Corps Community Center, supporting its mission across Phoenix — from youth programs to family services.</p>
         <a class="comm-more" href="https://krocphoenix.org/kroc-phoenix/advisory-board-members/" target="_blank" rel="noopener">See the board →</a>
       </div>
       <div class="glass comm-card reveal">
@@ -435,6 +441,16 @@
         <div class="vtop"><div><h3>XSATORI</h3><span class="founded">Sports Markets</span></div><span class="stat-dot sd-beta"><i></i>Beta</span></div>
         <p>Building the future of sports prediction. A new kind of market for how fans engage with the games they love.</p>
         <div class="vfoot"><span class="metric">Beta launch</span><a href="https://beta.xsatori.com" target="_blank" rel="noopener">Get early access →</a></div>
+      </div>
+      <div class="glass vent-card reveal">
+        <div class="vtop"><div><h3>Xsatori Labs</h3><span class="founded">Software Studio</span></div><span class="stat-dot sd-live"><i></i>Live</span></div>
+        <p>Custom software studio in Phoenix building apps, marketplaces and internal business systems for our own companies and for clients.</p>
+        <div class="vfoot"><span class="metric">Phoenix, AZ</span><a href="https://xsatorilabs.net" target="_blank" rel="noopener">Visit →</a></div>
+      </div>
+      <div class="glass vent-card reveal">
+        <div class="vtop"><div><h3>Hookah Royale</h3><span class="founded">Mobile App</span></div><span class="stat-dot sd-live"><i></i>Live</span></div>
+        <p>A real-time multiplayer mobile app, designed and built in-house by Xsatori Labs.</p>
+        <div class="vfoot"><span class="metric">Consumer app</span><a href="https://hookahroyale.com" target="_blank" rel="noopener">Visit →</a></div>
       </div>
     </div>
     <p style="margin-top:22px;font-family:'Space Mono';font-size:.76rem;color:var(--ink-dim)" class="reveal">Prior ventures: 2s / Mak Wireless (Telecom) · Seguros y Más (Insurance) — available on the full Ventures page.</p>
@@ -550,9 +566,10 @@
           <a href="https://www.youtube.com/@ninomihilli" target="_blank" rel="noopener">YouTube</a>
           <a href="https://medium.com/@nino.mihilli_12552/about" target="_blank" rel="noopener">Medium</a>
           <a href="https://ninomihilli.substack.com/" target="_blank" rel="noopener">Substack</a>
+          <a href="https://www.amazon.com/stores/author/B005E3OCH0" target="_blank" rel="noopener">Amazon</a>
         </div>
       </div>
-      <div class="foot-col"><h5>Building</h5><a href="https://www.flatstaffing.com" target="_blank" rel="noopener">FLAT Staffing</a><a href="https://www.t47group.com" target="_blank" rel="noopener">T47 Group</a><a href="https://www.t47group.com" target="_blank" rel="noopener">T47 Alpha</a><a href="https://beta.xsatori.com" target="_blank" rel="noopener">XSATORI</a><a href="https://www.amazon.com/dp/B0GX3783RG" target="_blank" rel="noopener">The Variable</a></div>
+      <div class="foot-col"><h5>Building</h5><a href="https://www.flatstaffing.com" target="_blank" rel="noopener">FLAT Staffing</a><a href="https://www.t47group.com" target="_blank" rel="noopener">T47 Group</a><a href="https://www.t47group.com" target="_blank" rel="noopener">T47 Alpha</a><a href="https://beta.xsatori.com" target="_blank" rel="noopener">XSATORI</a><a href="https://xsatorilabs.net" target="_blank" rel="noopener">Xsatori Labs</a><a href="https://hookahroyale.com" target="_blank" rel="noopener">Hookah Royale</a><a href="https://www.amazon.com/dp/B0GX3783RG" target="_blank" rel="noopener">The Variable</a></div>
       <div class="foot-col"><h5>Explore</h5><a href="#about">About</a><a href="#faith">Faith</a><a href="#community">Community</a><a href="#principles">Principles</a><a href="#writing">Writing</a><a href="/blog">Blog</a></div>
       <div class="foot-col"><h5>Connect</h5><a href="#strategy">Strategy Hour</a><a href="https://www.amazon.com/dp/B0GX3783RG" target="_blank" rel="noopener">The Variable (Book)</a><a href="https://ninomihilli.substack.com/" target="_blank" rel="noopener">Newsletter</a><a href="https://medium.com/@nino.mihilli_12552/about" target="_blank" rel="noopener">Medium</a></div>
     </div>
