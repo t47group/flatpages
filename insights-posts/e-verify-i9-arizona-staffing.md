@@ -70,6 +70,6 @@ When verification goes wrong, the problems often show up on the floor first: a w
 
 Arizona expects every employer to verify every new hire. When you use a staffing agency, that job belongs to the agency as employer of record, but you should still confirm they are doing it consistently and correctly.
 
-If you want to see how we handle verification and onboarding before workers ever reach your site, [reach out to our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want to see how we handle verification and onboarding before workers ever reach your site, [reach out to our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [Arizona Attorney General, Legal Arizona Workers Act for Employers](https://www.azag.gov/civil-rights/legal-az-workers-act/employers); [E-Verify: Staffing agencies must not selectively verify](https://www.e-verify.gov/about-e-verify/whats-new/reminder-staffing-agencies-must-not-selectively-verify-employees); [E-Verify FAQ: staffing agency case timing](https://www.e-verify.gov/faq/can-a-temporary-staffing-agency-create-a-case-in-e-verify-for-an-employee-before-placing-the); [E-Verify FAQ: temporary workers from an outside agency](https://www.e-verify.gov/faq/creating-e-verify-cases/i-am-a-federal-contractor-who-uses-temporary-workers-from-an-outside); [USCIS Form I-9](https://www.uscis.gov/i-9)

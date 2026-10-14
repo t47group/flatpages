@@ -75,6 +75,6 @@ The most expensive claim is the one that should not have happened. A few habits 
 
 In a typical staffing relationship, the agency employs the worker and carries their workers' comp. But the host controls the worksite, shares safety responsibility, and should have a clear written agreement covering coverage, duties and reporting.
 
-If you want to review how coverage, onboarding and injury reporting work with us, [start a conversation](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want to review how coverage, onboarding and injury reporting work with us, [start a conversation](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [Arizona Senate Research Staff, Workers' Compensation brief](https://azleg.gov/Briefs/Senate/WORKERS'%20COMPENSATION%202024.PDF); [Industrial Commission of Arizona](https://www.azica.gov/); [OSHA Protecting Temporary Workers](https://www.osha.gov/temporaryworkers)

@@ -76,6 +76,6 @@ Numbers are only useful if they change what you do. Here is how we suggest foldi
 
 Reliable labor market data for Phoenix is free and easy to access once you know where to look. Combine BLS and OEO data with your own hiring metrics, and you will make better decisions on pay, timing and headcount.
 
-If you want a second opinion on what the market looks like for the roles you hire, [reach out to our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want a second opinion on what the market looks like for the roles you hire, [reach out to our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [BLS, Phoenix-Mesa-Chandler Economy at a Glance](https://www.bls.gov/eag/eag.az_phoenix_msa.htm); [BLS Local Area Unemployment Statistics](https://www.bls.gov/lau/); [BLS Current Employment Statistics, State and Metro](https://www.bls.gov/sae/); [BLS Occupational Employment and Wage Statistics](https://www.bls.gov/oes/); [BLS Quarterly Census of Employment and Wages](https://www.bls.gov/cew/); [BLS Consumer Price Index](https://www.bls.gov/cpi/); [Arizona Office of Economic Opportunity, Labor Market](https://oeo.az.gov/labor-market); [A.R.S. 23-363](https://www.azleg.gov/ars/23/00363.htm)

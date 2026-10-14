@@ -75,6 +75,6 @@ Keep an eye on these items in 2027:
 
 The first quarter sets the tone for the year. Pay changes, compliance updates, heat planning and a clear workforce plan are much easier to handle in November than in mid-January.
 
-If you want help building your 2027 staffing plan or lining up flexible labor for Q1, [connect with our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want help building your 2027 staffing plan or lining up flexible labor for Q1, [connect with our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [A.R.S. 23-363, Minimum wage](https://www.azleg.gov/ars/23/00363.htm); [A.R.S. 23-372, Earned paid sick time](https://www.azleg.gov/ars/23/00372.htm); [Industrial Commission of Arizona, Minimum Wage](https://www.azica.gov/labor-minimum-wage-main-page); [ADOSH heat resources](https://azica.gov/heat); [Arizona Attorney General, Legal Arizona Workers Act](https://www.azag.gov/civil-rights/legal-az-workers-act/employers); [USCIS Form I-9](https://www.uscis.gov/i-9); [U.S. DOL proposed joint employer rule](https://www.dol.gov/agencies/whd/nprm-joint-employer-status-under-flsa-fmla-mspa); [OSHA National Emphasis Programs](https://www.osha.gov/enforcement/directives/nep); [BLS, Phoenix-Mesa-Chandler Economy at a Glance](https://www.bls.gov/eag/eag.az_phoenix_msa.htm)

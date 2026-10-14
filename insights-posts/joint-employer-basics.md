@@ -80,6 +80,6 @@ Some employers worry that any involvement with a temp makes them the employer fo
 
 Joint employment is a legal concept, but it is managed through everyday habits: clear roles, accurate time records, consistent conduct policies and good communication with your agency. The federal rules are still evolving, so revisit your practices periodically.
 
-If you want a partner that keeps the employer-side responsibilities clean, [let's talk](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want a partner that keeps the employer-side responsibilities clean, [let's talk](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [Federal Register, NLRB Withdrawal of 2023 Joint Employer Standard (Feb. 27, 2026)](https://www.federalregister.gov/documents/2026/02/27/2026-03955/withdrawal-of-2023-standard-for-determining-joint-employer-status); [U.S. DOL news release on proposed joint employer rule (Apr. 22, 2026)](https://www.dol.gov/index.php/newsroom/releases/whd/whd20260422); [DOL NPRM: Joint Employer Status](https://www.dol.gov/agencies/whd/nprm-joint-employer-status-under-flsa-fmla-mspa); [OSHA Protecting Temporary Workers](https://www.osha.gov/temporaryworkers)

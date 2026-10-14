@@ -25,7 +25,7 @@ arts = "\n".join(f'''  <article class="fi-article" id="{p['slug']}" data-date="{
     <div class="fi-body">
 {gen.md(p['body'])}
     </div>
-    <div class="fi-cta"><b>Need reliable workers in the Phoenix area?</b><span>Pre-vetted warehouse, auto auction, dealership and general labor crews.</span><a href="https://www.flatstaffing.com/partner-with-us">Partner with FLAT</a><a class="fi-ghost" href="tel:+16027303312">602-730-3312</a></div>
+    <div class="fi-cta"><b>Need reliable workers in the Phoenix area?</b><span>Pre-vetted warehouse, auto auction, dealership and general labor crews.</span><a href="https://www.flatstaffing.com/partner-landing-page">Partner with FLAT</a><a class="fi-ghost" href="tel:+16027303312">602-730-3312</a></div>
     <a class="fi-back" href="#insights">&larr; All insights</a>
   </article>''' for p in posts)
 meta = json.dumps([{"slug":p["slug"],"date":p["date"].isoformat(),"title":p["title"],"description":p["description"]} for p in posts])

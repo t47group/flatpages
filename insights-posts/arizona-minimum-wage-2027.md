@@ -70,6 +70,6 @@ We also suggest using the increase as a moment to check whether your temp pay ra
 
 The 2027 increase is modest, predictable and already calculable. The employers who handle it well are the ones who build it into their Q4 budget instead of discovering it in January payroll.
 
-If you want help mapping how the new rate affects your bill rates or shift pay, [talk with our team](https://www.flatstaffing.com/partner-with-us) or call us at 602-730-3312.
+If you want help mapping how the new rate affects your bill rates or shift pay, [talk with our team](https://www.flatstaffing.com/partner-landing-page) or call us at 602-730-3312.
 
 **Sources:** [A.R.S. 23-363 (Arizona Legislature)](https://www.azleg.gov/ars/23/00363.htm); [BLS Consumer Price Index, August 2026](https://www.bls.gov/news.release/cpi.nr0.htm); [U.S. DOL state minimum wage table](https://www.dol.gov/agencies/whd/minimum-wage/state); [Industrial Commission of Arizona, Minimum Wage](https://www.azica.gov/labor-minimum-wage-main-page)

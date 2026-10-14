@@ -76,6 +76,6 @@ That last point matters. Training on automated systems takes time, so a returnin
 
 Automation is spreading through Phoenix distribution, but it is changing jobs more than eliminating them. The facilities that handle the shift well plan by task, invest in technical skills and keep a flexible, trained workforce for the work machines do not cover.
 
-If you are planning a go-live or rethinking your labor mix around automation, [talk with our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you are planning a go-live or rethinking your labor mix around automation, [talk with our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** This article reflects general industry practice and does not cite specific statistics. For safety requirements around machinery, see [OSHA Machine Guarding](https://www.osha.gov/machine-guarding) and [OSHA Control of Hazardous Energy (Lockout/Tagout)](https://www.osha.gov/control-hazardous-energy).

@@ -72,6 +72,6 @@ Temps are also often the newest people on site, which means they are the least a
 
 There is no single federal heat rule yet, but Arizona employers face active state and federal enforcement and clear expectations from ADOSH. A written plan, built now and practiced before May, protects your people and your operation.
 
-If you want to coordinate heat planning for the temporary workers on your site, [talk with our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want to coordinate heat planning for the temporary workers on your site, [talk with our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [ADOSH Heat Stress State Emphasis Program announcement](https://www.azica.gov/sites/default/files/2023-08/ADOSH%20Announces%20State%20Emphasis%20Program%20to%20Combat%20Heat%20Illness%20and%20Injury%20in%20the%20Workplace%20Release.pdf); [ICA Workplace Heat Safety Task Force FAQ](https://www.azica.gov/sites/default/files/2025-05/FAQ%20Workplace%20Heat%20Safety%20Task%20Force%20%2B%20Guidelines%20.pdf); [Arizona Governor's Office, Task Force recommendations](https://azgovernor.gov/node/7604); [ADOSH heat resources](https://azica.gov/heat); [OSHA National Emphasis Programs](https://www.osha.gov/enforcement/directives/nep); [OSHA Heat Overview](https://www.osha.gov/heat-exposure); [OSHA Protecting Temporary Workers](https://www.osha.gov/temporaryworkers)

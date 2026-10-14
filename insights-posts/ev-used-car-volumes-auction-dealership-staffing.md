@@ -70,6 +70,6 @@ Each of these benefits from a reliable core plus a trained flex pool that knows 
 
 Changing used-car supply and a growing share of EVs mean auction and dealership work is less predictable and more specialized than it used to be. Building a flexible, trained crew is the best way to handle both.
 
-FLAT Staffing has supported Valley automotive and auction operations for years. If you want to talk through lot, porter or recon staffing, [connect with our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+FLAT Staffing has supported Valley automotive and auction operations for years. If you want to talk through lot, porter or recon staffing, [connect with our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [IRS, Clean Vehicle Tax Credits](https://www.irs.gov/clean-vehicle-tax-credits); [ADOSH heat resources](https://azica.gov/heat)

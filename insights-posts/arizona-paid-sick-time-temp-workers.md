@@ -74,6 +74,6 @@ When you convert a temp to your direct payroll, you become their employer for si
 
 Arizona's earned paid sick time law is not new, but it still trips up employers, particularly where temps and direct employees work side by side. The good news is that when you use a staffing agency, most of the administration sits with the agency. Your job is to plan for coverage and make sure supervisors handle absences correctly.
 
-If you want to talk through how we manage absences and backfill for our clients, [connect with our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want to talk through how we manage absences and backfill for our clients, [connect with our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [A.R.S. 23-372, Earned paid sick time accrual](https://www.azleg.gov/ars/23/00372.htm); [A.R.S. 23-371, Definitions](https://www.azleg.gov/ars/23/00371.htm); [A.R.S. 23-373, Use of earned paid sick time](https://www.azleg.gov/ars/23/00373.htm); [Industrial Commission of Arizona, Wage and Earned Paid Sick Time FAQs](https://www.azica.gov/frequently-asked-questions-about-wage-and-earned-paid-sick-time-laws)

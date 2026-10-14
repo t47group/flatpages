@@ -67,6 +67,6 @@ A major manufacturing anchor can also strengthen the regional economy over time:
 
 TSMC Arizona's build-out is reshaping the Phoenix labor market well beyond the fab gates. Expect steady competition for hourly and technical workers, especially in the north Valley, and plan pay, retention and flexible staffing accordingly.
 
-If you want to talk through how the market is affecting your hiring, [connect with our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you want to talk through how the market is affecting your hiring, [connect with our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [TSMC Arizona, About](https://www.tsmc.com/static/abouttsmcaz/index.htm); [TSMC press release, March 4, 2025](https://pr.tsmc.com/english/news/3210); [BLS, Phoenix-Mesa-Chandler Economy at a Glance](https://www.bls.gov/eag/eag.az_phoenix_msa.htm); [Arizona Office of Economic Opportunity, Labor Market](https://oeo.az.gov/labor-market)

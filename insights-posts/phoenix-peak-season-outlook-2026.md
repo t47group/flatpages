@@ -59,6 +59,6 @@ National seasonal hiring announcements get a lot of press every fall, but those 
 
 Phoenix's industrial market continues to absorb space, which keeps competition for warehouse labor steady through the holidays. The best peak plans are flexible: a solid forecast cadence, a ready bench, early training and a clear plan for January.
 
-If you need a partner to help flex your crew through the rest of peak and into returns season, [reach out to our team](https://www.flatstaffing.com/partner-with-us) or call 602-730-3312.
+If you need a partner to help flex your crew through the rest of peak and into returns season, [reach out to our team](https://www.flatstaffing.com/partner-landing-page) or call 602-730-3312.
 
 **Sources:** [CBRE, Phoenix Industrial Figures Q3 2026](https://www.cbre.com/insights/figures/phoenix-industrial-figures-q3-2026); [BLS, Phoenix-Mesa-Chandler Economy at a Glance](https://www.bls.gov/eag/eag.az_phoenix_msa.htm); [A.R.S. 23-363](https://www.azleg.gov/ars/23/00363.htm); [BLS Consumer Price Index, August 2026](https://www.bls.gov/news.release/cpi.nr0.htm)
