@@ -183,9 +183,15 @@ src="https://www.facebook.com/tr?id=1558248022734574&ev=PageView&noscript=1"
   .sticky-cta .btn{flex:1;padding:14px;font-size:1rem}
   .sticky-cta .btn-call{background:#fff;color:var(--navy);box-shadow:none}
   @media(max-width:820px){.sticky-cta{display:flex}body{padding-bottom:74px}}
+  .jobbar{display:block;background:#ff7a1a;color:#fff;text-align:center;padding:10px 14px;font-weight:600;font-size:.95rem;text-decoration:none;line-height:1.35}
+  .jobbar:hover{background:#e86a0c}
+  .jobbar b{font-weight:800}
 </style>
 </head>
 <body>
+
+<!-- JOB SEEKER BAR -->
+<a class="jobbar" href="https://www.flatstaffing.com/new-hires" target="_top">👷 <b>Looking for a job?</b> This page is for employers. <u>Apply to work with FLAT here →</u></a>
 
 <!-- TOP BAR -->
 <header class="topbar">
@@ -225,7 +231,7 @@ src="https://www.facebook.com/tr?id=1558248022734574&ev=PageView&noscript=1"
       <div class="err" id="err-top">Something went wrong — please try again.</div>
       <form id="leadForm" novalidate>
         <div class="field">
-          <label>Full Name*</label>
+          <label>Your Name*</label>
           <input type="text" name="entry.307988631" required autocomplete="name" placeholder="Jane Smith">
         </div>
         <div class="row2">
@@ -236,6 +242,22 @@ src="https://www.facebook.com/tr?id=1558248022734574&ev=PageView&noscript=1"
           <div class="field">
             <label>Email Address*</label>
             <input type="email" name="entry.2095902709" required autocomplete="email" placeholder="you@company.com">
+            <small style="display:block;margin-top:4px;opacity:.7;font-size:.78rem">Work email preferred</small>
+          </div>
+        </div>
+        <div class="row2">
+          <div class="field">
+            <label>Company Name*</label>
+            <input type="text" id="f_company" required autocomplete="organization" placeholder="Your company">
+          </div>
+          <div class="field">
+            <label>How Many Workers Do You Need?*</label>
+            <select id="f_headcount" required>
+              <option value="" disabled selected>Select…</option>
+              <option value="1-5">1–5</option>
+              <option value="6-15">6–15</option>
+              <option value="16+">16+</option>
+            </select>
           </div>
         </div>
         <div class="field">
@@ -493,12 +515,16 @@ src="https://www.facebook.com/tr?id=1558248022734574&ev=PageView&noscript=1"
     var params = new URLSearchParams();
     new FormData(form).forEach(function(v,k){ params.append(k,v); });
     var name = (form.querySelector('[name="'+F_NAME+'"]')||{}).value || '';
+    var company = (document.getElementById('f_company')||{}).value || '';
+    var headcount = (document.getElementById('f_headcount')||{}).value || '';
+    // Google Form has no company/headcount questions yet, so append them to the name column
+    params.set(F_NAME, name + ' | Company: ' + company + ' | Needs: ' + headcount + ' workers');
     var phone = (form.querySelector('[name="'+F_PHONE+'"]')||{}).value || '';
 
     btn.disabled=true; btn.textContent='Sending…';
 
     var done=function(){
-      if(window.fbq) fbq('track','Lead',{content_name:'Partner - Worker Request'});
+      if(window.fbq) fbq('track','Lead',{content_name:'Partner - Worker Request',content_category:headcount});
       var card=document.getElementById('lead');
       card.innerHTML='<div class="thankyou"><div class="check">✓</div><h3>You\'re all set, '+(name?name.split(" ")[0]:'')+'!</h3><p>Thanks — your request is in. A FLAT staffing specialist will call you shortly at <b>'+(phone||'the number provided')+'</b> to get started. Keep your phone handy!</p></div>';
       card.scrollIntoView({behavior:'smooth',block:'center'});
